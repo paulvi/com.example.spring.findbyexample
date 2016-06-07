@@ -6,4 +6,3 @@ Docs
 - http://docs.spring.io/spring-data/jpa/docs/current/reference/html/#query-by-example
 - http://docs.spring.io/spring-data/jpa/docs/current/reference/html/#query-by-example.execution
 
-TODO Example import
