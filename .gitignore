@@ -1,1 +1,4 @@
-/target/
+# maven output
+target
+# Eclipse files
+.*
